@@ -1,0 +1,43 @@
+.root{
+
+-fx-font-size: 25;
+-fx-background-color:#ffffff;
+-fx-border-radius:2px;
+-fx-border-color:#0f0f0f;
+-fx-text-fill: #484848;
+
+}
+
+.button{
+-fx-background-color:#e8e8e8;
+-fx-text-fill:#212121 ;
+       
+
+}
+
+.button:hover{
+      
+    
+    -fx-background-color:#c16666;
+    
+}
+.button:pressed{
+    
+    
+    -fx-background-color:#ff4444;
+    
+}
+
+#buttontheme{
+    
+    
+    -fx-font-size: 12;
+    
+}
+
+#buttonback{
+    
+    
+    -fx-font-size: 12;
+    
+}
