@@ -1,7 +1,7 @@
 # Simple_Calc
 
 A Simple calculator written in java with some basic css theme styles.
-My first GUI program. Made during the Christmas holidays as a exercise. 
+My first GUI program. Made during the Christmas holidays as an exercise. 
 Logic based on if-statements and boolean values. GUI made with JavaFX.
 
 -Things i learned-
