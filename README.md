@@ -6,14 +6,14 @@ Logic based on if-statements and boolean values. GUI made with JavaFX.
 
 -Things i learned-
 
-My first proper GUI program
-How GUI affects coding and logic
-New syntaxes (theme ^= true)
-How JavaFX elements work
-How to link css stylesheets to program
+My first proper GUI program.
+How GUI affects coding and logic.
+New syntaxes (theme ^= true).
+How JavaFX elements work.
+How to link css stylesheets to program.
 Various other things!
 
 -To-Do-
-Clean the code
-Check variable names
-Remove useless system prints
+Clean the code.
+Check variable names.
+Remove useless system prints.
