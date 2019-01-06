@@ -17,3 +17,6 @@ Various other things!
 Clean the code.
 Check variable names.
 Remove useless system prints.
+
+EDIT 6.1.2019
+Uploaded JAR with right compiler settings
